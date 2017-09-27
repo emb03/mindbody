@@ -1,7 +1,7 @@
 ## Your challenge, should you choose to accept it
 
 1. Clone this repo (or download the .zip archive) to get started
-2. Your page should resemble [webinar_screenshot.png](webinar_screenshot.png) on desktop and be responsive down to mobile. This page was designed on a 12 column grid.
+2. Your page should resemble [webinar_screenshot.png](webinar_screenshot.png) on desktop and be responsive down to mobile. This page was designed on a 12 column grid, and uses [Lato](https://fonts.google.com/specimen/Lato) font.
 
     <img src="webinar_screenshot.png" alt="Webinar Screenshot" width="250"/>
     
