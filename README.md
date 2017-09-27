@@ -14,5 +14,5 @@
 - **Attention to detail**. Can you build a near-identical representation of the screenshot we provided? No detail is too small in our view.
 - **Appropriate use of frameworks and tools**. You don't necessarily have to use the latest and greatest frameworks. As long as you use your preferred tools in an appropriate way and are able to describe your reasoning if asked, you're good to go.
 
-# Help!
+## Help!
 Should you stumble into any questions during your quest, feel free tor reach out to your recruiter or dev contact. There are no stupid questions!
