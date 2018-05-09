@@ -5,9 +5,12 @@
 
     <img src="webinar_screenshot.png" alt="Webinar Screenshot" width="250"/>
     
-3. The Sign Up button should have a hover state and trigger form validation when clicked.
-4. Add the current year before ‘Company’ in the footer.
-5. When you're finished, send a link to your GitHub repo (preferred) or a .zip archive to your point-of-contact. (Make sure you include your unminified code!) If tooling is required (grunt, rails, yeoman, etc.), your submitted work should also be hosted so that it can viewed in a working state.
+3. The Sign Up button should have a hover state and trigger form validation when clicked. Please check for:
+  - 'First Name', 'Last Name', and 'Email' fields are not empty
+  - 'Email' field should include a valid email
+4. As a UX/design challenge, when the Sign Up form is submitted, please display a message to indicate a successful submission. 
+5. Add the current year before ‘Company’ in the footer. This date should update dynamically when a new year comes around.
+6. When you're finished, send a link to your GitHub repo (preferred) or a .zip archive to your point-of-contact. (Make sure you include your unminified code!) If tooling is required (grunt, rails, yeoman, etc.), your submitted work should also be hosted so that it can viewed in a working state.
 
 ## What we're looking for
 
