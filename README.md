@@ -6,7 +6,7 @@
     <img src="webinar_screenshot.png" alt="Webinar Screenshot" width="250"/>
     
 3. The Sign Up button should have a hover state and trigger form validation when clicked. Please check for:
-    - 'First Name', 'Last Name', and 'Email' fields should not be empty
+    - 'First Name', 'Last Name', 'Business Name', and 'Email' fields should not be empty
     - 'Email' field should include a valid email
 4. As a UX/design challenge, when the Sign Up form is submitted, please display a message to indicate a successful submission. 
 5. Add the current year before ‘Company’ in the footer. This date should update dynamically when a new year comes around.
