@@ -1,0 +1,135 @@
+html {
+	background-color: #282828;
+}
+html, body {
+	font-family: "Lato", sans-serif;
+	font-size: 1rem;
+	font-weight: 300;
+	line-height: 1.5;
+	color: #696c74;
+}
+body {
+	overflow-x: hidden !important;
+	font-size: 95%;
+}
+.container-fluid {
+	max-width: 100% !important;
+	overflow-x: hidden !important;
+}
+h1, h2, h3, h4, h5, h6 {
+	padding-bottom: .5rem;
+	font-family: "Lato";
+	font-weight: 300;
+	line-height: 1.1;
+	color: inherit;
+}
+a {
+	color: #36b4c7;
+	text-decoration: underline;
+}
+h4.sm_heading {
+	font-size: 18px;
+	text-transform: uppercase;
+	color: #fff;
+}
+.container-fluid {
+	background-color: #fff;
+	padding: 0px;
+}
+.col-md-4 {
+	display: flex
+}
+.jumbotron {
+	text-align: center;
+	background-color: #36b4c7;
+}
+h2.hero_txt {
+	color: #fff;
+	font-size: 48px;
+}
+p.date {
+	color: #fff;
+	font-size: 18px;
+}
+.row.back-bar {
+	background-color: #000;
+	padding-top: 12px;
+	color: #fff;
+	height: 41px;
+	font-size: 90%;
+}
+img.img-fluid {
+	border-bottom: 3px solid #36b4c7;
+	width: 100%
+}
+.fa span {
+	font-family: "Lato", sans-serif;
+}
+img.avatar {
+	float: left;
+	margin-right: 40px;
+}
+.bg-light {
+	background-color: #f8f9fa;
+	border: 0;
+}
+.card {
+	margin-bottom: 20px;
+	flex: 1
+}
+.card-body {
+	padding: 36px 26px 12px;
+	text-align: center;
+}
+.card.bg-light .card-body {
+	text-align: left;
+}
+.section_cards {
+	margin-top: 40px;
+}
+#myform {
+	text-align: left;
+}
+button.btn.btn-default {
+	background-color: #36b4c7;
+	color: #fff;
+}
+button.btn.btn-submit {
+	background-color: #f68f1e;
+	color: #fff;
+}
+.btn-submit:hover {
+	background-color: #ababac !important;
+}
+footer.footer {
+	text-align: center;
+	font-size: 14px;
+	background: #eff1f3;
+	padding: 20px 0;
+}
+input#email, input#first_name, input#last_name, input#business_name {
+	width: 100%;
+	margin-bottom: 12px;
+}
+/* do not group these rules */
+
+*::-webkit-input-placeholder {
+	color: #999999!important;
+}
+*:-moz-placeholder {
+	/* FF 4-18 */
+	color: 999!important;
+}
+*::-moz-placeholder {
+	/* FF 19+ */
+	color: 999c74!important;
+}
+*:-ms-input-placeholder {
+	/* IE 10+ */
+	color: 999c74!important;
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+	h5 strong {
+		font-size: 1rem;
+	}
+}
